@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Oxenta</string>
+        <string-array name="age_group">
+            <item>Select Age group Here...</item>
+            <item>10-17</item>
+            <item>18-40</item>
+            <item>41-60</item>
+            <item>60-100</item>
+        </string-array>
+
+    <string-array name="urinterest_array">
+        <item>Comedy</item>
+        <item>Drama</item>
+        <item>Action</item>
+        <item>Horror</item>
+        <item>Romantic</item>
+        <item>Historical</item>
+
+    </string-array>
+</resources>
+
